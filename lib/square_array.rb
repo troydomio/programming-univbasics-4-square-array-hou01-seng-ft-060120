@@ -8,5 +8,5 @@ counter = 0
    puts array[counter]**2
    counter += 1
   end
-  square_array
+  square_array(array)
 end
